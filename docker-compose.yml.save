@@ -1,0 +1,4 @@
+touch docker-compose.yml
+nano docker-compose.yml
+
+
